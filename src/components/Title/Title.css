@@ -8,4 +8,11 @@
   padding:1rem;
   border-radius: 5px;
   background-color: MediumAquamarine;
+  margin-right: -10rem;
+}
+
+h2 {
+	float: right;
+	margin-right: 2rem;
+	margin-top: 2rem;
 }

@@ -10,7 +10,7 @@
 }
 
 .container {
-  grid-template-columns: repeat(3, 300px [col-start]);
+  grid-template-columns: repeat(3, 250px [col-start]);
   display: flex;
   flex-flow: row wrap;justify-content: space-evenly;
   align-content: flex-start;
