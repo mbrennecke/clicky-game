@@ -1,0 +1,20 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  color: #af272f;
+  margin-bottom: 50px;
+  padding:1rem;
+  border-radius: 5px;
+  background-color: #e6c37c;
+  margin-right: -11rem;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h2 {
+	float: right;
+	margin-right: 2rem;
+	margin-top: 2rem;
+	color: #c03d48;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
